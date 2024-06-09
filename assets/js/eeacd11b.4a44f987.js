@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_8gu=self.webpackChunkopen_8gu||[]).push([[4049],{9131:e=>{e.exports=JSON.parse('{"title":"Kafka","slug":"/category/kafka","permalink":"/message-queue/category/kafka","navigation":{"next":{"title":"Kafka\u53d1\u9001\u4e00\u6761\u6d88\u606f\u7684\u6d41\u7a0b\uff1f","permalink":"/message-queue/kafka/ea448bazulivzdxr"}}}')}}]);

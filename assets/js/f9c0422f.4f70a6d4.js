@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_8gu=self.webpackChunkopen_8gu||[]).push([[6295],{8628:e=>{e.exports=JSON.parse('{"label":"changelog","permalink":"/blog/tags/changelog","allTagsPath":"/blog/tags","count":3}')}}]);

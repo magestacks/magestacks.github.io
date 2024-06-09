@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopen_8gu=self.webpackChunkopen_8gu||[]).push([[6686],{9451:e=>{e.exports=JSON.parse('{"title":"Spring","slug":"/category/spring","permalink":"/framework/category/spring","navigation":{"next":{"title":"Spring\u6709\u54ea\u4e9b\u5e38\u7528\u6ce8\u89e3\uff1f","permalink":"/framework/spring/kemtzwgchc3r1dbs"}}}')}}]);
